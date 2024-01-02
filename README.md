@@ -1,0 +1,1 @@
+The main aim of the Quick Fingers project is to let user to calculate some mathematical questions that will be given by the program which's done using C#. User can see how many correct responses and incorrect responses he/she made and also can see the remaning time via graphical UI of the program.
