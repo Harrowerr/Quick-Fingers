@@ -15,3 +15,6 @@ This was a project that i've made for fun and practice in C# 😄
 - Language: **[C#](https://github.com/dotnet/csharplang) 10.0**
 - Framework: **[.NET](https://github.com/dotnet) Framework 6.0** / **[WinForms](https://github.com/dotnet/winforms)**
 - IDE: **[Visual Studio](https://github.com/microsoft) 2022**
+
+## 📖 License
+- The Quick Fingers software is open-source software licensed under the [MIT license](LICENSE).
